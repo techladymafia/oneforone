@@ -8,13 +8,15 @@
 
 - name: "Erie Meyer"
   handle: "erie"
-  oneforone: "Aminatou Sow"
+  oneforone: 
+    name: "Aminatou Sow"
     handle: "Aminatou"
     platform: "https://twitter.com/"
   
 - name: "Noah Kunin"
   handle: "noahkunin"
-  oneforone: "Laurenellen McCann"
+  oneforone: 
+    name:  "Laurenellen McCann"
     handle: "elle_mccann"
     platform: "https://twitter.com/"
 
