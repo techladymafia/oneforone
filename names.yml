@@ -27,3 +27,10 @@
     name: "Marina Martin"
     handle: "MarinaMartin"
     platform: "https://twitter.com/"
+
+- name: "Shannon Turner"
+  handle: "svt827"
+  oneforone:
+    name: "Aliya Rahman"
+    handle: "AliyaRahman"
+    platform: "https://twitter.com/"
