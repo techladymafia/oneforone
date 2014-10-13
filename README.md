@@ -12,6 +12,8 @@ You can add yourself and your oneforone in [names](https://github.com/techladyma
 
 Know someone who you admire, and want to know their oneforone? [Tag them in an issue](https://github.com/techladymafia/oneforone/issues/new) and we'll ask if they'll contribute!
 
+Have an idea for a project that could use this data, like a ["who to follow" recommendation tool](https://github.com/techladymafia/oneforone/issues/8) based on the people you currently follow, or [a browser plug-in that highlights names in articles/listicles/speaker line-ups that have listed their oneforone](https://github.com/techladymafia/oneforone/issues/9)? [Open an issue](https://github.com/techladymafia/oneforone/issues/new)!
+
 
 More about the project
 ---
