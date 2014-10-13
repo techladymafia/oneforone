@@ -15,6 +15,6 @@ The oneforone data is maintained in an easy-to-read YAML file (".yml") in /names
 
 Contributing
 ---
-You can add yourself and your oneforone in the [names](https://github.com/techladymafia/oneforone/blob/master/names.yml) file. Content and feature suggestions are welcome via [GitHub Issues](https://github.com/techladymafia/oneforone/issues/new). Code contributions are welcome via (pull request)[https://github.com/techladymafia/oneforone/compare].
+You can add yourself and your oneforone in the [names](https://github.com/techladymafia/oneforone/blob/master/names.yml) file. Content and feature suggestions are welcome via [GitHub Issues](https://github.com/techladymafia/oneforone/issues/new). Code contributions are welcome via [pull request](https://github.com/techladymafia/oneforone/compare).
 
 Know someone who you admire, and want to know their oneforone? [Tag them in an issue](https://github.com/techladymafia/oneforone/issues/new) and we'll ask if they'll contribute!
