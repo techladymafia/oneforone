@@ -34,3 +34,10 @@
     name: "Aliya Rahman"
     handle: "AliyaRahman"
     platform: "https://twitter.com/"
+    
+- name: "Micheál Keane"
+  handle: "aexia"
+  oneforone:
+    name: "Jamaä Bickley-King"
+    handle: "jamaa.bickleyking"
+    platform: "https://www.facebook.com/"
