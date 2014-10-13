@@ -2,7 +2,8 @@
   
 # - name: "Joe Smith"
 #   handle: "JoeSmith89389"
-#   oneforone: "Jane Williams"
+#   oneforone: 
+#     name: "Jane Williams"
 #     handle: "JaneWilliams895464"
 #     platform: "https://twitter.com"
 
