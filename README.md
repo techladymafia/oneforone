@@ -6,7 +6,7 @@ This is a repo where you can play oneforone! Here's more about the nexus of the 
 
 How it works
 ---
-Oneforone is a game to support diversity! Name the person who is exactly as qualified as you, but has a different characteristic that's under-represented in tech. For example, if you're a man, you can name a woman. If you're white, you can name a person of color, if you're straight, name someone who is LGBTQ, if you're able-bodied, name someone who has a disability, etc. The oneforone data is maintained in an easy-to-read YAML files (".yml") in /names.
+Oneforone is a game to support diversity! Name the person who is exactly as qualified as you, but has a different characteristic that's under-represented in your field. For example, if you're a man, you can name a woman. If you're white, you can name a person of color, if you're straight, name someone who is LGBTQ, if you're able-bodied, name someone who has a disability, etc. The oneforone data is maintained in an easy-to-read YAML files (".yml") in /names.
 
 
 Contributing
