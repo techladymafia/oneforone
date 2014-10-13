@@ -41,3 +41,9 @@
     name: "Jamaä Bickley-King"
     handle: "jamaa.bickleyking"
     platform: "https://www.facebook.com/"
+- name: "Derek Willis"
+  handle: "dwillis"
+  oneforone:
+    name: "Michelle Minkoff"
+    handle: "michelleminkoff"
+    platform: "https://twitter.com/"
