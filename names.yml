@@ -2,19 +2,22 @@
   
 # - name: "Joe Smith"
 #   handle: "JoeSmith89389"
-#   oneforone: "Jane Williams"
-#   oneforonehandle: "JaneWilliams895464"
-#   oneforoneplatform: "https://twitter.com"
+#   oneforone: 
+#     name: "Jane Williams"
+#     handle: "JaneWilliams895464"
+#     platform: "https://twitter.com"
 
 - name: "Erie Meyer"
   handle: "erie"
-  oneforone: "Aminatou Sow"
-  oneforonehandle: "Aminatou"
-  oneforoneplatform: "https://twitter.com/"
+  oneforone: 
+    name: "Aminatou Sow"
+    handle: "Aminatou"
+    platform: "https://twitter.com/"
   
 - name: "Noah Kunin"
   handle: "noahkunin"
-  oneforone: "Laurenellen McCann
-  oneforonehandle: "elle_mccann"
-  oneforoneplatform: "https://twitter.com/"
+  oneforone: 
+    name:  "Laurenellen McCann"
+    handle: "elle_mccann"
+    platform: "https://twitter.com/"
 
