@@ -17,12 +17,13 @@
 - name: "Noah Kunin"
   handle: "noahkunin"
   oneforone: 
-    name:  "Laurenellen McCann"
+    name: "Laurenellen McCann"
     handle: "elle_mccann"
     platform: "https://twitter.com/"
 
 - name: "Gray Brooks"
   handle: "gbinal"
-  oneforone: "Marina Martin"
-  oneforonehandle: "MarinaMartin"
-  oneforoneplatform: "https://twitter.com/"
+  oneforone:
+    name: "Marina Martin"
+    handle: "MarinaMartin"
+    platform: "https://twitter.com/"
