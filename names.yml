@@ -112,3 +112,9 @@ oneforone:
   handle: "Sharon_Paley"
   platform: "https://twitter.com"
 
+- name: "Davy Stevenson"
+handle: "davystevenson"
+oneforone:
+  name: "Jen Oslislo"
+  handle: "poeks"
+  platform: "https://twitter.com"
