@@ -55,3 +55,10 @@
     name: "Jessica Lord"
     handle: "jllord"
     platform: "https://www.twitter.com/"
+
+- name: "David Kennedy"
+  handle: "davidakennedy"
+  oneforone:
+    name: "Amberley Romo"
+    handle: "amberleyjohanna"
+    platform: "https://twitter.com/"
