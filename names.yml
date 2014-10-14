@@ -90,3 +90,10 @@
     name: "Julia Robinson"
     handle: "julesmarie"
     platform: "https://twitter.com"
+    
+- name: "Aaron Strauss"
+  handle: "aaron_strauss"
+  oneforone:
+    name: "Amelia Showalter"
+    handle: "ameliashowalter"
+    platform: "https://twitter.com"
