@@ -1,22 +1,22 @@
 # This file lists oneforones. Please add your own! Below is an example oneforone:
-
+  
 # - name: "Joe Smith"
 #   handle: "JoeSmith89389"
-#   oneforone:
+#   oneforone: 
 #     name: "Jane Williams"
 #     handle: "JaneWilliams895464"
 #     platform: "https://twitter.com"
 
 - name: "Erie Meyer"
   handle: "erie"
-  oneforone:
+  oneforone: 
     name: "Aminatou Sow"
     handle: "Aminatou"
     platform: "https://twitter.com/"
-
+  
 - name: "Noah Kunin"
   handle: "noahkunin"
-  oneforone:
+  oneforone: 
     name: "Laurenellen McCann"
     handle: "elle_mccann"
     platform: "https://twitter.com/"
@@ -34,21 +34,21 @@
     name: "Aliya Rahman"
     handle: "AliyaRahman"
     platform: "https://twitter.com/"
-
+    
 - name: "Micheál Keane"
   handle: "aexia"
   oneforone:
     name: "Jamaä Bickley-King"
     handle: "jamaa.bickleyking"
     platform: "https://www.facebook.com/"
-
+    
 - name: "Derek Willis"
   handle: "dwillis"
   oneforone:
     name: "Michelle Minkoff"
     handle: "michelleminkoff"
     platform: "https://twitter.com/"
-
+    
 - name: "Max Ogden"
   handle: "maxogden"
   oneforone:
@@ -76,24 +76,17 @@
     name: "Ope Bukola"
     handle: "ope_bukola"
     platform: "https://twitter.com/"
-
-- name: "Alex Howard"
-handle: "digiphile"
-oneforone:
-  name: "Miranda Neubauer"
-  handle: "mirandan247"
-  platform: "https://twitter.com"
-
-- name: "Joseph Mosby"
-handle: "josephmosby"
-oneforone:
-  name: "Julia Robinson"
-  handle: "julesmarie"
-  platform: "https://twitter.com"
-
-- name: "Pam Selle"
-handle: "pamasaur"
-oneforone:
-  name: "Duretti Hirpa"
-  handle: "duretti"
-  platform: "https://twitter.com"
+    
+  - name: "Alex Howard"
+  handle: "digiphile"
+  oneforone:
+    name: "Miranda Neubauer"
+    handle: "mirandan247"
+    platform: "https://twitter.com"  
+    
+  - name: "J. Nathan Matias"
+  handle: "natematias"
+  oneforone:
+    name: "Dayna Chatman"
+    handle: "FuturePhDdaynaC"
+    platform: "https://twitter.com"
