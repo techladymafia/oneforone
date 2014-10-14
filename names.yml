@@ -1,4 +1,4 @@
-# This file lists one4ones. Please add your own! Below is an example one4one:
+# This file lists oneforones. Please add your own! Below is an example oneforone:
   
 # - name: "Joe Smith"
 #   handle: "JoeSmith89389"
@@ -41,9 +41,17 @@
     name: "Jamaä Bickley-King"
     handle: "jamaa.bickleyking"
     platform: "https://www.facebook.com/"
+    
 - name: "Derek Willis"
   handle: "dwillis"
   oneforone:
     name: "Michelle Minkoff"
     handle: "michelleminkoff"
     platform: "https://twitter.com/"
+    
+- name: "Max Ogden"
+  handle: "maxogden"
+  oneforone:
+    name: "Jessica Lord"
+    handle: "jllord"
+    platform: "https://www.twitter.com/"
