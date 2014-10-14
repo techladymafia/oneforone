@@ -83,3 +83,10 @@
     name: "Miranda Neubauer"
     handle: "mirandan247"
     platform: "https://twitter.com"  
+    
+  - name: "Joseph Mosby"
+  handle: "josephmosby"
+  oneforone:
+    name: "Julia Robinson"
+    handle: "julesmarie"
+    platform: "https://twitter.com"
