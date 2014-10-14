@@ -97,3 +97,10 @@ oneforone:
   name: "Duretti Hirpa"
   handle: "duretti"
   platform: "https://twitter.com"
+
+- name: "Elle Cayabyab Gitlin"
+handle: "evoque"
+oneforone:
+  name: "Kelly Flood"
+  handle: "kellyflood"
+  platform: "https://twitter.com"
