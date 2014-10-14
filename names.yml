@@ -77,9 +77,16 @@
     handle: "ope_bukola"
     platform: "https://twitter.com/"
     
-  - name: "Alex Howard"
+- name: "Alex Howard"
   handle: "digiphile"
   oneforone:
     name: "Miranda Neubauer"
     handle: "mirandan247"
-    platform: "https://twitter.com"  
+    platform: "https://twitter.com" 
+    
+- name: "Ben Balter"
+  handle: "benbalter"
+  oneforone: 
+    name: "Erie Meyer"
+    handle: "eriemeyer"
+    platform: "https://github.com"
