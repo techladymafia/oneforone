@@ -41,3 +41,10 @@
     name: "Jamaä Bickley-King"
     handle: "jamaa.bickleyking"
     platform: "https://www.facebook.com/"
+
+- name: "Max Ogden"
+  handle: "maxogden"
+  oneforone:
+    name: "Jessica Lord"
+    handle: "jllord"
+    platform: "https://www.twitter.com/"
