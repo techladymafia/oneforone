@@ -69,3 +69,10 @@
     name: "Jen Leech"
     handle: "jennifermleech"
     platform: "https://twitter.com"
+
+- name: "Ariel Norling"
+  handle: "ariel_n"
+  oneforone:
+    name: "Ope Bukola"
+    handle: "ope_bukola"
+    platform: "https://twitter.com/"
