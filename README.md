@@ -17,6 +17,6 @@ Have an idea for a project that could use this data, like a ["who to follow" rec
 
 More about the project
 ---
-Here's [more about the nexus of the game](http://www.forbes.com/sites/deannazandt/2012/07/09/a-challenge-to-digital-influencers-join-the-one4one-game/), created by [Deanna Zandt](https://twitter.com/Deanna), [Melissa Pierce](https://twitter.com/melissapierce) and [Andrew Rasej](https://twitter.com/Rasiej).
+Here's [more about the nexus of the game](http://www.forbes.com/sites/deannazandt/2012/07/09/a-challenge-to-digital-influencers-join-the-one4one-game/), created by [Deanna Zandt](https://twitter.com/Deanna), [Melissa Pierce](https://twitter.com/melissapierce) and [Andrew Rasiej](https://twitter.com/Rasiej).
 
 This repo was created as an experiment during [transparency camp](http://transparencycamp.org/), and for [Ada Lovelace day](http://findingada.com/) -- October 14th -- we're asking folks to add their oneforone.
