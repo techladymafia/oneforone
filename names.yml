@@ -76,3 +76,10 @@
     name: "Ope Bukola"
     handle: "ope_bukola"
     platform: "https://twitter.com/"
+    
+  - name: "Alex Howard"
+  handle: "digiphile"
+  oneforone:
+    name: "Miranda Neubauer"
+    handle: "mirandan247"
+    platform: "https://twitter.com"  
