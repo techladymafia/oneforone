@@ -112,3 +112,9 @@ oneforone:
   handle: "Sharon_Paley"
   platform: "https://twitter.com"
 
+- name: "Alla Goldman"
+handle: "allagoldman"
+oneforone:
+name: "Melody Cramer"
+handle: "mkramer"
+platform: "https://twitter.com"
