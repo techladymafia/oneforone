@@ -112,3 +112,9 @@ oneforone:
   handle: "Sharon_Paley"
   platform: "https://twitter.com"
 
+- name: "Kathryn Peters"
+  handle: "kep"
+  oneforone:
+    name: "Tiana Epps-Johnson"
+    handle: "tianaej"
+    platform: "https://www.twitter.com/"
