@@ -98,6 +98,14 @@ oneforone:
   handle: "duretti"
   platform: "https://twitter.com"
 
+- name: "Jason Denizac"
+handle: "jden"
+platform: "https://github.com"
+oneforone:
+  name: "Fureigh"
+  handle: "fureigh"
+  platform: "https://twitter.com"
+
 - name: "Elle Cayabyab Gitlin"
 handle: "evoque"
 oneforone:
