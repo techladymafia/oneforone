@@ -104,7 +104,7 @@ oneforone:
   name: "Kelly Flood"
   handle: "kellyflood"
   platform: "https://twitter.com"
-  
+
   - name: "Laurenellen McCann"
 handle: "elle_mccann"
 oneforone:
@@ -118,3 +118,10 @@ oneforone:
     name: "Tiana Epps-Johnson"
     handle: "tianaej"
     platform: "https://www.twitter.com/"
+
+- name: "Jacqueline Kazil"
+  handle: "jackiekazil"
+  oneforone:
+    name: "Catherine Bracy"
+    handle: "cbracy"
+    platform: "https://twitter.com/"
